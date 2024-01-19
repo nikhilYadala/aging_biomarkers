@@ -142,8 +142,6 @@ We investigated the dynamic properties of the organism state fluctuations along 
 
   - Some examples of such centralised experiments are <https://www.nature.com/articles/s41746-022-00630-9-> Age estimation from sleep studies using deep learning predicts life expectancy, <https://www.nature.com/articles/s41598-022-24053-4>  Association between vitamin D supplementation and COVID-19 infection and mortality
 
-\
-\
 
 
 **End Goal**
