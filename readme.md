@@ -4,6 +4,33 @@
 
 We are asking for contributions from the international community to inform the development of a short slide deck to stimulate discussion and engagement with key stakeholders on the use of aging biomarkers in trials in a collaborative process with a view to achieving international consensus on standards, validation and open decentralized data sharing.
 
+
+# Contributing to the Presentation
+
+We welcome contributions to our presentation! If you would like to contribute, please follow the steps outlined below.
+
+## How to Contribute
+
+1. **Fork the Project**: Start by forking the project repository on GitHub. You can do this by visiting [https://github.com/nikhilYadala/aging_biomarkers](https://github.com/nikhilYadala/aging_biomarkers) and clicking on the 'Fork' button.
+
+2. **Download the Presentation**: After forking, download the presentation file. You can find the latest version in the PDF or PPTx format in the master branch. Alternatively, you can check the details of the latest merged commit, which includes the URL of the Google slides.
+
+3. **Edit the Presentation**: Make your edits to the presentation. We prefer if you use Google slides for editing. This ensures uniformity and easier collaboration.
+
+4. **Commit Your Edits**: Once you are done with your edits, commit the changes to your forked repository. Please use the following format for your commit message: `<<your description here>> URL: <<Google slides URL>>`. For an example of a properly formatted commit, refer to [this commit](https://github.com/nikhilYadala/aging_biomarkers/commit/b893d3c97ac97bf454cc8dbc24d0f9a3446900b4).
+
+5. **Send a Pull Request**: Finally, send a pull request to the master branch of the main repository at [https://github.com/nikhilYadala/aging_biomarkers](https://github.com/nikhilYadala/aging_biomarkers). One of our core team volunteers will review your submission and, if appropriate, merge it into the main presentation. For an example of a properly formatted pull request, refer to [this PR](https://github.com/nikhilYadala/aging_biomarkers/pull/1).
+
+## License
+
+This presentation is available under the Creative Commons license. You are free to edit, distribute, and fork this presentation for your own purposes under the terms of this license.
+
+Thank you for your interest in contributing to our project!
+
+
+
+## About our efforts
+
 **_Rationale_**
 
 Biomarkers could accelerate and shorten clinical trial times by acting as surrogate endpoints upstream in the health trajectory, and measure risk and progression of major age-related diseases.  However, there Is no agreed standard or list of approved aging biomarkers for clinical trials; and there is no international consensus or set of validated biomarkers of aging or aging clocks.  There is also a need to move beyond static to more dynamic ways to measure resilience in response to stressor events and capture the complex and multifactorial processes underlying aging in human systems. This gap can be addressed by data-intensive omics, capture of digital biomarkers through ‘effortless AI’ (eg wearables) and application of machine learning, quantum computing and systems biology.
